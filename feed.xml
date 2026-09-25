@@ -3,10 +3,33 @@
     <title>DSJALBUM</title>
     <link href="https://hookss926.github.io/DSJALBUM/feed.xml" rel="self" />
     <link href="https://hookss926.github.io/DSJALBUM" />
-    <updated>1970-01-01T07:30:00+07:30</updated>
+    <updated>2026-09-25T23:33:14+08:00</updated>
     <author>
         <name>James Boon</name>
     </author>
     <id>https://hookss926.github.io/DSJALBUM</id>
 
+    <entry>
+        <title>Title 1</title>
+        <author>
+            <name>James Boon</name>
+        </author>
+        <link href="https://hookss926.github.io/DSJALBUM/title-1.html"/>
+        <id>https://hookss926.github.io/DSJALBUM/title-1.html</id>
+
+        <updated>2026-09-25T23:33:01+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Image 1 Testing
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Image 1</p>
+<figure class="post__image"><img loading="lazy" src="https://hookss926.github.io/DSJALBUM/media/posts/1/WhatsApp-Image-2026-08-31-at-20.26.28.jpeg" alt="Testing" width="1254" height="1254" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://hookss926.github.io/DSJALBUM/media/posts/1/responsive/WhatsApp-Image-2026-08-31-at-20.26.28-xs.jpeg 640w ,https://hookss926.github.io/DSJALBUM/media/posts/1/responsive/WhatsApp-Image-2026-08-31-at-20.26.28-sm.jpeg 768w ,https://hookss926.github.io/DSJALBUM/media/posts/1/responsive/WhatsApp-Image-2026-08-31-at-20.26.28-md.jpeg 1024w ,https://hookss926.github.io/DSJALBUM/media/posts/1/responsive/WhatsApp-Image-2026-08-31-at-20.26.28-lg.jpeg 1366w ,https://hookss926.github.io/DSJALBUM/media/posts/1/responsive/WhatsApp-Image-2026-08-31-at-20.26.28-xl.jpeg 1600w ,https://hookss926.github.io/DSJALBUM/media/posts/1/responsive/WhatsApp-Image-2026-08-31-at-20.26.28-2xl.jpeg 1920w">
+<figcaption>Testing</figcaption>
+</figure>
+            ]]>
+        </content>
+    </entry>
 </feed>

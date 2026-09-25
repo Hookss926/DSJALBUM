@@ -9,5 +9,19 @@
         "name": "James Boon"
     },
     "items": [
+        {
+            "id": "https://hookss926.github.io/DSJALBUM/title-1.html",
+            "url": "https://hookss926.github.io/DSJALBUM/title-1.html",
+            "title": "Title 1",
+            "summary": "Image 1 Testing",
+            "content_html": "<p>Image 1</p>\n<figure class=\"post__image\"><img loading=\"lazy\" src=\"https://hookss926.github.io/DSJALBUM/media/posts/1/WhatsApp-Image-2026-08-31-at-20.26.28.jpeg\" alt=\"Testing\" width=\"1254\" height=\"1254\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://hookss926.github.io/DSJALBUM/media/posts/1/responsive/WhatsApp-Image-2026-08-31-at-20.26.28-xs.jpeg 640w ,https://hookss926.github.io/DSJALBUM/media/posts/1/responsive/WhatsApp-Image-2026-08-31-at-20.26.28-sm.jpeg 768w ,https://hookss926.github.io/DSJALBUM/media/posts/1/responsive/WhatsApp-Image-2026-08-31-at-20.26.28-md.jpeg 1024w ,https://hookss926.github.io/DSJALBUM/media/posts/1/responsive/WhatsApp-Image-2026-08-31-at-20.26.28-lg.jpeg 1366w ,https://hookss926.github.io/DSJALBUM/media/posts/1/responsive/WhatsApp-Image-2026-08-31-at-20.26.28-xl.jpeg 1600w ,https://hookss926.github.io/DSJALBUM/media/posts/1/responsive/WhatsApp-Image-2026-08-31-at-20.26.28-2xl.jpeg 1920w\">\n<figcaption>Testing</figcaption>\n</figure>",
+            "author": {
+                "name": "James Boon"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-25T23:33:01+08:00",
+            "date_modified": "2026-09-25T23:33:14+08:00"
+        }
     ]
 }
